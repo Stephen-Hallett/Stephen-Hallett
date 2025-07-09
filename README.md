@@ -6,7 +6,7 @@
 
 <h2>Hey there 👋</h2>
 
-Hi, I'm Stephen - A data scientist based in Auckland, New Zealand. I'm interested in everything data science & machine learning, including computer vision, natural language processing and predictive modelling. When I'm not working on data science projects, I'm probably tinkering with electronics, my [homelab](https://github.com/Stephen-Hallett/Homelab), my [dotfiles](https://github.com/Stephen-Hallett/dotfiles), or some other coding project I find funny or useful.
+I'm Stephen - A data scientist based in Auckland, New Zealand. I'm interested in everything data science & machine learning, including computer vision, natural language processing and predictive modelling. When I'm not working on data science projects, I'm probably tinkering with electronics, my [homelab](https://github.com/Stephen-Hallett/Homelab), my [dotfiles](https://github.com/Stephen-Hallett/dotfiles), or some other coding project I find funny or useful.
 
 Check out my portfolio & cv if you're interested [here](https://www.stephenhallett.nz).
 
@@ -20,14 +20,14 @@ Check out my portfolio & cv if you're interested [here](https://www.stephenhalle
 <h3 align="center">Cloud and Infrastructure</h3>
 <p align="center">
   <a href="https://github.com/Stephen-Hallett/ShoppingList" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=azure,docker,git,githubactions,terraform&perline=5" />
+    <img src="https://skillicons.dev/icons?i=azure,docker,git,githubactions,terraform,cloudflare&perline=5" />
   </a>
 </p>
 
-<h3 align="center">Hobbies</h3>
+<h3 align="center">Hobby</h3>
 <p align="center">
   <a href="https://github.com/Stephen-Hallett/ChristmasLightsClient" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=arduino,nix,raspberrypi,cloudflare&perline=4" />
+    <img src="https://skillicons.dev/icons?i=arduino,nix,raspberrypi,linux,cloudflare,fastapi,postman&perline=6" />
   </a>
 </p>
 
