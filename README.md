@@ -20,14 +20,14 @@ Check out my portfolio & cv if you're interested [here](https://www.stephenhalle
 <h3 align="center">Cloud and Infrastructure</h3>
 <p align="center">
   <a href="https://github.com/Stephen-Hallett/ShoppingList" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=azure,docker,git,githubactions,terraform,cloudflare&perline=5" />
+    <img src="https://skillicons.dev/icons?i=azure,docker,git,githubactions,terraform,cloudflare&perline=6" />
   </a>
 </p>
 
 <h3 align="center">Hobby</h3>
 <p align="center">
   <a href="https://github.com/Stephen-Hallett/ChristmasLightsClient" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=arduino,nix,raspberrypi,linux,cloudflare,fastapi,postman&perline=6" />
+    <img src="https://skillicons.dev/icons?i=arduino,nix,raspberrypi,cloudflare,fastapi,postman&perline=6" />
   </a>
 </p>
 
