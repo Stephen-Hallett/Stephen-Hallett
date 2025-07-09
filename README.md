@@ -10,6 +10,7 @@ I'm Stephen - A data scientist based in Auckland, New Zealand. I'm interested in
 
 Check out my portfolio & cv if you're interested [here](https://www.stephenhallett.nz).
 
+<h2>Tools I use for...</h2>
 <h3 align="center">Data Science</h3>
 <p align="center">
   <a href="https://ieeexplore.ieee.org/document/10794489" target="_blank" rel="noopener noreferrer">
