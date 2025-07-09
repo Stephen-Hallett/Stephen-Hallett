@@ -25,7 +25,7 @@ Check out my portfolio & cv if you're interested [here](https://www.stephenhalle
   </a>
 </p>
 
-<h3 align="center">Hobby</h3>
+<h3 align="center">Hobbies</h3>
 <p align="center">
   <a href="https://github.com/Stephen-Hallett/ChristmasLightsClient" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=arduino,nix,raspberrypi,cloudflare,fastapi,postman&perline=6" />
