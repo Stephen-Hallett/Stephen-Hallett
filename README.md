@@ -35,6 +35,6 @@ Check out my portfolio & cv if you're interested [here](https://www.stephenhalle
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=A6DA95&background=494D64&center=true&vCenter=true&width=435&lines=Data+Science;Software+Engineering;Self+Hosting;Electronics" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=50&pause=1000&color=A6DA95&background=494D64&center=true&vCenter=true&width=800&height=100&lines=Data+Science;Software+Engineering;Self+Hosting;Electronics" alt="Typing SVG" />
     </a>
 </p>
