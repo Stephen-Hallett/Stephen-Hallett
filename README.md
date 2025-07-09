@@ -13,14 +13,14 @@ Check out my portfolio & cv if you're interested [here](https://www.stephenhalle
 <h3 align="center">Data Science</h3>
 <p align="center">
   <a href="https://ieeexplore.ieee.org/document/10794489" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=python,r,opencv,matlab,pytorch,tensorflow,sklearn&perline=6" />
+    <img src="https://skillicons.dev/icons?i=python,r,opencv,matlab,pytorch,tensorflow,sklearn&perline=7" />
   </a>
 </p>
 
 <h3 align="center">Cloud and Infrastructure</h3>
 <p align="center">
   <a href="https://github.com/Stephen-Hallett/ShoppingList" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=azure,docker,git,githubactions&perline=4" />
+    <img src="https://skillicons.dev/icons?i=azure,docker,git,githubactions,terraform&perline=5" />
   </a>
 </p>
 
@@ -33,4 +33,8 @@ Check out my portfolio & cv if you're interested [here](https://www.stephenhalle
 
 <h2></h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=A6DA95&background=494D64&center=true&vCenter=true&width=435&lines=Data+Science;Software+Engineering;Self+Hosting;Electronics)](https://git.io/typing-svg)
+<p align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=A6DA95&background=494D64&center=true&vCenter=true&width=435&lines=Data+Science;Software+Engineering;Self+Hosting;Electronics" alt="Typing SVG" />
+    </a>
+</p>
